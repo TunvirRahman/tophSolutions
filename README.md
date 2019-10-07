@@ -1,3 +1,4 @@
+![Contest!](contest.png "Contest")
 # Toph solutions codes.
 
 We will list problem and solution here! Please feel free to contribute.
