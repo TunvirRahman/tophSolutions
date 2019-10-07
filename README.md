@@ -3,6 +3,6 @@
 
 We will list problem and solution here! Please feel free to contribute.
 
-Check the solutions in **[Toph](https://toph.co/)**.
+Check the Problems in **[Toph](https://toph.co/)**.
 
-Please feel free to contact for any supprt tunvir_rahman@yahoo.com
+Please feel free to contact for any query tunvir_rahman@yahoo.com
